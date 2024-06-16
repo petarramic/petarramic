@@ -187,10 +187,7 @@ Have you spotted a bug? Something missing? Feel free to open an issue.
   <summary>Last 5 moves in this game</summary>
 <!-- BEGIN LAST MOVES -->
 
-| Move | Author |
-| :--: | :----- |
-| `E2` to `E4` | [ @s7e-20](https://github.com/s7e-20) |
-| `Start game` | [ @s7e-20](https://github.com/s7e-20) |
+(Here goes the list of the last 5 moves)
 
 <!-- END LAST MOVES -->
 </details>
@@ -199,9 +196,7 @@ Have you spotted a bug? Something missing? Feel free to open an issue.
   <summary>Top 10 most moves across all games</summary>
 <!-- BEGIN TOP MOVES -->
 
-| Total moves |  User  |
-| :---------: | :----- |
-| 1 | [@s7e-20](https://github.com/s7e-20) |
+(Here goes the top 10 most moves)
 
 <!-- END TOP MOVES -->
 </details>
