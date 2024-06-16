@@ -198,9 +198,7 @@ Have you spotted a bug? Something missing? Feel free to open an issue.
   <summary>Top 10 most moves across all games</summary>
 <!-- BEGIN TOP MOVES -->
 
-| Total moves |  User  |
-| :---------: | :----- |
-| 1 | [@s7e-20](https://github.com/s7e-20) |
+(Here goes the top 10 most moves)
 
 <!-- END TOP MOVES -->
 </details>
